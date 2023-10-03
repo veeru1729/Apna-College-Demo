@@ -1,3 +1,3 @@
 # Apna-College-Demo
 #This is my first repository
-Author Veerendra
+Author Veerendra D
